@@ -8,8 +8,7 @@ name: Sakshi Gite
 location: Ahilyanagar,Maharashtra, India 🇮🇳
 
 role: Bachelor of Computer Application
-    
-age: 21
+
 
 currently:
 -I am a Second Year BCA Student
